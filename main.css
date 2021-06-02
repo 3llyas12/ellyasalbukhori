@@ -553,8 +553,9 @@ a:hover{
     .awards-tiers{
         gap: 0;
     }
-  
-
+    .awards-tiers p{
+        font-size: 1.3rem;
+    }
     .activities-item{
         flex-direction: column;
         align-items: flex-start;
