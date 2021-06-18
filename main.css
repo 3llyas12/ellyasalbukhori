@@ -551,7 +551,7 @@ a:hover{
     }
 
     .awards-tiers{
-        gap: 0;
+        gap: 1;
     }
     .awards-tiers p{
         font-size: 1.3rem;
