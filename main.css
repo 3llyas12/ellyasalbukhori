@@ -554,7 +554,7 @@ a:hover{
         gap: 0;
     }
     .awards-tiers p{
-        font-size: 1.1rem;
+        font-size: 3rem;
     }
     .activities-item{
         flex-direction: column;
@@ -604,6 +604,10 @@ a:hover{
 
     .title-heading p{
         font-size: 1.3rem;
+    }
+    
+    .awards-tiers p{
+        font-size: 1.1rem;
     }
 
     .contact .container{
