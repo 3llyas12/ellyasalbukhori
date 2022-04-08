@@ -51,14 +51,14 @@ header{
 
 .container{
     width: 100%;
-    max-width: 90rem;
-    margin: 0 0;
+    max-width: 100rem;
+    margin: 0 auto;
     padding: 0 1.5rem;
 }
 
 .nav-brand{ 
     width: 5rem;
-    margin-left: 50px;
+    margin-left: 1rem;
 }
 
 nav{
