@@ -58,7 +58,7 @@ header{
 
 .nav-brand{ 
     width: 5rem;
-    margin-left: 1rem;
+    margin-left: auto;
 }
 
 nav{
