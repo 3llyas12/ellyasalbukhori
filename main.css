@@ -443,7 +443,7 @@ hr{
 }
 
 .activities-text{
-    flex: auto;
+    flex: 1;
 }
 
 .activities-text h2{
